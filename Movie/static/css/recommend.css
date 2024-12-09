@@ -1,0 +1,69 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f7f7f7;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    font-size: 2.5em;
+    color: #333;
+    margin-bottom: 30px;
+}
+
+/* Movie Recommendation List */
+.recommendations {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.recommendations ul {
+    list-style: none;
+    padding: 0;
+}
+
+.recommendations li {
+    font-size: 1.2em;
+    color: #555;
+    padding: 8px;
+    border-bottom: 1px solid #ddd;
+}
+
+.recommendations li:last-child {
+    border-bottom: none;
+}
+
+/* Back Button */
+.back-btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    font-size: 1.1em;
+    border-radius: 5px;
+    text-decoration: none;
+    margin-top: 30px;
+    transition: background-color 0.3s;
+}
+
+.back-btn:hover {
+    background-color: #45a049;
+}
+
+/* Styling for Images */
+body {
+   
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
