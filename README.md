@@ -37,8 +37,8 @@ Before running the projects, ensure you have the following dependencies installe
 
 1. Clone the repository:
     ```bash
-    git clone <repository_url>
-    cd <repository_directory>
+    git clone (https://github.com/Kartik-Patil/Intern-Hub.git)
+    cd Intern-Hub
     ```
 
 2. Create a virtual environment and activate it:
