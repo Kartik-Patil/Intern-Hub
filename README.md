@@ -99,6 +99,4 @@ These files can be downloaded and placed in the respective directories:
 
 Feel free to fork this repository and submit pull requests. If you encounter any issues, please open an issue on GitHub.
 
-## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
